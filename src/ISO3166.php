@@ -720,7 +720,7 @@ final class ISO3166 implements \Countable, \IteratorAggregate, ISO3166DataProvid
             ],
         ],
         [
-            'name' => 'Czechia',
+            'name' => 'Czech Republic',
             'alpha2' => 'CZ',
             'alpha3' => 'CZE',
             'numeric' => '203',
@@ -1839,7 +1839,7 @@ final class ISO3166 implements \Countable, \IteratorAggregate, ISO3166DataProvid
             ],
         ],
         [
-            'name' => 'Russian Federation',
+            'name' => 'Russia',
             'alpha2' => 'RU',
             'alpha3' => 'RUS',
             'numeric' => '643',
@@ -2299,7 +2299,7 @@ final class ISO3166 implements \Countable, \IteratorAggregate, ISO3166DataProvid
             ],
         ],
         [
-            'name' => 'United Kingdom of Great Britain and Northern Ireland',
+            'name' => 'United Kingdom',
             'alpha2' => 'GB',
             'alpha3' => 'GBR',
             'numeric' => '826',
@@ -2308,7 +2308,7 @@ final class ISO3166 implements \Countable, \IteratorAggregate, ISO3166DataProvid
             ],
         ],
         [
-            'name' => 'United States of America',
+            'name' => 'United States',
             'alpha2' => 'US',
             'alpha3' => 'USA',
             'numeric' => '840',
